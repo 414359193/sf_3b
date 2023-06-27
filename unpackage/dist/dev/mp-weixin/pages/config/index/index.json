@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "E3B",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-link": "/uni_modules/uni-link/components/uni-link/uni-link",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

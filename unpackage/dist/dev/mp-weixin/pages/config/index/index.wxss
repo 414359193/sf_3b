@@ -1,0 +1,90 @@
+
+.t-login {
+
+	margin: 0 auto;
+	font-size: 28rpx;
+	color: #000;
+}
+
+/* .t-login button {
+	font-size: 28rpx;
+	background: #2796f2;
+	color: #fff;
+	height: 90rpx;
+	line-height: 90rpx;
+	border-radius: 50rpx;
+	font-weight: bold;
+	margin: 40rpx;
+} */
+.t-bc {	
+	width: 100vw;
+	box-sizing: border-box;
+	padding: 0 60rpx;
+	font-size: 28rpx;
+	color: #000;
+}
+
+/* .t-bc button {
+	font-size: 28rpx;
+	background: #5677fc;
+	color: #fff;
+	height: 90rpx;
+	line-height: 90rpx;
+	border-radius: 50rpx;
+	box-shadow: 0 5px 7px 0 rgba(86, 119, 252, 0.2);
+	margin: 40rpx;
+} */
+.t-a {
+	font-size: 35rpx;
+	-webkit-transform:translate3d(0,0,0);
+	        transform:translate3d(0,0,0);
+	z-index: 100;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: -webkit-max-content;
+	width: max-content;
+	padding-top: 150rpx;
+	font-family: "Times New Roman", Times, serif;
+	/* text-align: center; */
+    width: 600rpx;
+	margin: 0 auto;
+}
+.t-b {
+	margin: 10rpx;
+}
+.t-d {
+	margin-left: 79%;
+	margin-bottom: 10px;
+	/* margin:  80rpx; */
+	/* text-align: center; */
+	font-family: "Times New Roman", Times, serif;
+}
+.t-login .t-c{
+
+padding: 0 70rpx 120rpx;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	box-sizing: border-box;
+}
+.t-c navigator {
+	
+	display: flex;
+	justify-content: space-between;
+}
+.t-t {
+	flex-direction: column;
+	align-items: center;
+	display: flex;
+	width: 70px;
+	height: 90px;
+	padding: 30rpx;
+	/* margin: 20px; */
+	/* padding: 13px; */
+	background-color: #f8f7fc;
+}
+.t-t text {
+	padding-bottom: 30px;
+}
+
